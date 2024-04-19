@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "half=lower,facing=east": {
+      "model": "minecolonies:block/scarecrow",
+      "y": 90
+    },
+    "half=lower,facing=south": {
+      "model": "minecolonies:block/scarecrow",
+      "y": 180
+    },
+    "half=lower,facing=west": {
+      "model": "minecolonies:block/scarecrow",
+      "y": 270
+    },
+    "half=lower,facing=north": {
+      "model": "minecolonies:block/scarecrow",
+      "y": 0
+    }
+  }
+}
